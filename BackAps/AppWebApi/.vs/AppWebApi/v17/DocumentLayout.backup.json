@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HomeWork\\\u041C\u0438\u043A\u0440\u043E\u0441\u0435\u0440\u0432\u0438\u0441\u044B(ASP\u002BDocker\u002BMassTransit\u002BRabbit\u002BSignalR\u002BSqlite\u002BAngular)\\BackAps\\AppWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3088FB1F-ACA6-4AAA-9907-99E632F698E4}|WebApi\\WebApi.csproj|e:\\homework\\\u043C\u0438\u043A\u0440\u043E\u0441\u0435\u0440\u0432\u0438\u0441\u044B(asp\u002Bdocker\u002Bmasstransit\u002Brabbit\u002Bsignalr\u002Bsqlite\u002Bangular)\\backaps\\appwebapi\\webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3088FB1F-ACA6-4AAA-9907-99E632F698E4}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3088FB1F-ACA6-4AAA-9907-99E632F698E4}|WebApi\\WebApi.csproj|e:\\homework\\\u043C\u0438\u043A\u0440\u043E\u0441\u0435\u0440\u0432\u0438\u0441\u044B(asp\u002Bdocker\u002Bmasstransit\u002Brabbit\u002Bsignalr\u002Bsqlite\u002Bangular)\\backaps\\appwebapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3088FB1F-ACA6-4AAA-9907-99E632F698E4}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3088FB1F-ACA6-4AAA-9907-99E632F698E4}|WebApi\\WebApi.csproj|e:\\homework\\\u043C\u0438\u043A\u0440\u043E\u0441\u0435\u0440\u0432\u0438\u0441\u044B(asp\u002Bdocker\u002Bmasstransit\u002Brabbit\u002Bsignalr\u002Bsqlite\u002Bangular)\\backaps\\appwebapi\\webapi\\signalrhub\\producthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3088FB1F-ACA6-4AAA-9907-99E632F698E4}|WebApi\\WebApi.csproj|solutionrelative:webapi\\signalrhub\\producthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 231,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductHub.cs",
+              "DocumentMoniker": "E:\\HomeWork\\\u041C\u0438\u043A\u0440\u043E\u0441\u0435\u0440\u0432\u0438\u0441\u044B(ASP\u002BDocker\u002BMassTransit\u002BRabbit\u002BSignalR\u002BSqlite\u002BAngular)\\BackAps\\AppWebApi\\WebApi\\SignalRhub\\ProductHub.cs",
+              "RelativeDocumentMoniker": "WebApi\\SignalRhub\\ProductHub.cs",
+              "ToolTip": "E:\\HomeWork\\\u041C\u0438\u043A\u0440\u043E\u0441\u0435\u0440\u0432\u0438\u0441\u044B(ASP\u002BDocker\u002BMassTransit\u002BRabbit\u002BSignalR\u002BSqlite\u002BAngular)\\BackAps\\AppWebApi\\WebApi\\SignalRhub\\ProductHub.cs",
+              "RelativeToolTip": "WebApi\\SignalRhub\\ProductHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:12:54.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\HomeWork\\\u041C\u0438\u043A\u0440\u043E\u0441\u0435\u0440\u0432\u0438\u0441\u044B(ASP\u002BDocker\u002BMassTransit\u002BRabbit\u002BSignalR\u002BSqlite\u002BAngular)\\BackAps\\AppWebApi\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "E:\\HomeWork\\\u041C\u0438\u043A\u0440\u043E\u0441\u0435\u0440\u0432\u0438\u0441\u044B(ASP\u002BDocker\u002BMassTransit\u002BRabbit\u002BSignalR\u002BSqlite\u002BAngular)\\BackAps\\AppWebApi\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:11:28.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\HomeWork\\\u041C\u0438\u043A\u0440\u043E\u0441\u0435\u0440\u0432\u0438\u0441\u044B(ASP\u002BDocker\u002BMassTransit\u002BRabbit\u002BSignalR\u002BSqlite\u002BAngular)\\BackAps\\AppWebApi\\WebApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\HomeWork\\\u041C\u0438\u043A\u0440\u043E\u0441\u0435\u0440\u0432\u0438\u0441\u044B(ASP\u002BDocker\u002BMassTransit\u002BRabbit\u002BSignalR\u002BSqlite\u002BAngular)\\BackAps\\AppWebApi\\WebApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T09:38:02.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
