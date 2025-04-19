@@ -1,0 +1,11 @@
+E:\HomeWork\Микросервисы(ASP+Docker+MassTransit+Rabbit+SignalR+Sqlite+Angular)\BackAps\AppWebApi\Contracts\bin\Debug\net8.0\Contracts.deps.json
+E:\HomeWork\Микросервисы(ASP+Docker+MassTransit+Rabbit+SignalR+Sqlite+Angular)\BackAps\AppWebApi\Contracts\bin\Debug\net8.0\Contracts.dll
+E:\HomeWork\Микросервисы(ASP+Docker+MassTransit+Rabbit+SignalR+Sqlite+Angular)\BackAps\AppWebApi\Contracts\bin\Debug\net8.0\Contracts.pdb
+E:\HomeWork\Микросервисы(ASP+Docker+MassTransit+Rabbit+SignalR+Sqlite+Angular)\BackAps\AppWebApi\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\HomeWork\Микросервисы(ASP+Docker+MassTransit+Rabbit+SignalR+Sqlite+Angular)\BackAps\AppWebApi\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+E:\HomeWork\Микросервисы(ASP+Docker+MassTransit+Rabbit+SignalR+Sqlite+Angular)\BackAps\AppWebApi\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+E:\HomeWork\Микросервисы(ASP+Docker+MassTransit+Rabbit+SignalR+Sqlite+Angular)\BackAps\AppWebApi\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+E:\HomeWork\Микросервисы(ASP+Docker+MassTransit+Rabbit+SignalR+Sqlite+Angular)\BackAps\AppWebApi\Contracts\obj\Debug\net8.0\Contracts.dll
+E:\HomeWork\Микросервисы(ASP+Docker+MassTransit+Rabbit+SignalR+Sqlite+Angular)\BackAps\AppWebApi\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+E:\HomeWork\Микросервисы(ASP+Docker+MassTransit+Rabbit+SignalR+Sqlite+Angular)\BackAps\AppWebApi\Contracts\obj\Debug\net8.0\Contracts.pdb
+E:\HomeWork\Микросервисы(ASP+Docker+MassTransit+Rabbit+SignalR+Sqlite+Angular)\BackAps\AppWebApi\Contracts\obj\Debug\net8.0\ref\Contracts.dll
